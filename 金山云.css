@@ -1,0 +1,269 @@
+.header1 {
+  background: #dc363b;
+}
+.header2 {
+  margin-right: 165px;
+}
+.header2 ul .line{
+    height: 13px;
+    margin-top: 9px;
+    border: 1px solid #fff;
+}
+.header2 ul li {
+  float: left;
+}
+.header2 ul li a {
+  font-size: 13px;
+  display: inline-block;
+  color: #fff;
+  margin: 9px 19px;
+}
+.header2 ul button {
+  width: 60px;
+  height: 26px;
+  color: #fff;
+  background: #dc363b;
+  font-size: 13px;
+  border: 1px solid #fff;
+  margin: 3px 0;
+  border-radius: 2px;
+}
+.header3{
+  height: 70px;
+  background-color: #d7e0f2;
+}
+.header3 img{
+    position: absolute;
+    left: 180px;
+    top: 17px;
+}
+.header3 ul{
+    position: absolute;
+    right: 124px;
+}
+.header3 ul li{
+    float: left;
+   margin-right:32px; 
+}
+.header3 ul li a{
+  display: inline-block;
+  font-size: 15px;
+  height: 68px;
+  line-height: 68px;
+  padding:0 8px;
+  color: #424243;
+}
+
+
+.header3 ul li a:hover{
+  color: #db4f59;
+  border-bottom: 2px solid red;
+}
+/* 头部结束 */
+.banner{
+  height: 651px;
+}
+.banner img{
+  width: 100%;
+  height: 100%;
+}
+.banner2{
+  position: absolute;
+  width: 104px;
+  height: 20px;
+  left: 50%;
+  margin-left: -52px;
+  bottom: 31px;
+}
+.banner2 ul li{
+float: left;
+background: #abaca9;
+width: 20px;
+height: 20px;
+margin-right: 8px;
+border-radius: 50%;
+}
+.banner2 ul li:last-child{
+  margin-right: 0;
+}
+.banner2 ul li:hover{
+  background: #fff;
+}
+/* banner结束 */
+
+.basic h2{
+  text-align: center;
+  margin-top: 41px;
+  font-size: 33px;
+}
+.basic p{
+  text-align: center;
+  margin-top: 26px;
+  font-size: 15px;
+  color: #7a797f;
+}
+.basic ul{
+  margin-top: 48px;
+  margin-left: 180px;
+}
+.basic ul li{
+  float: left;
+  margin-right: 1px;
+}
+.basic ul li:last-child{
+  margin-right: 0;
+}
+.basic ul li a{
+  display: inline-block;
+  width: 166px;
+  height: 175px;
+  background: #7f7c7d;
+}
+.basic ul li a div{
+  width: 73px;
+  height: 73px;
+  background: #fff;
+  border-radius: 50%;
+  margin-top: 43px;
+  margin-left: 46px;
+}
+.basic ul li a div img{
+  margin-top: 17px;
+  margin-left: 10px;
+}
+.basic ul li a .basic2{
+  color: #fff;
+  font-size: 18px;
+  margin-top: 19px;
+}
+/* 基础云部分结束 */
+
+
+.general h2{
+  text-align: center;
+  margin-top: 138px;
+  font-size: 33px;
+}
+.general p{
+  text-align: center;
+  margin-top: 24px;
+  font-size: 14px;
+  color: #676d7c;
+}
+.general img{
+  float: left;
+  margin-left: 120px;
+  margin-top: 55px;
+}
+.general1{
+  float: right;
+  width: 490px;
+  height: 230px;
+  margin-top: 108px;
+  margin-right: 175px;
+}
+.general1 h3{
+display: inline-block;
+font-size: 27px;
+height: 42px;
+border-bottom: 1px solid #d9d9d9;
+}
+.general1 .general2{
+  margin-top: 36px;
+  font-size: 14px;
+  height: 99px;
+  line-height: 26px;
+  color: #888;
+}
+.general1 button{
+  width: 108px;
+  height: 36px;
+  font-size: 14px;
+  color: #757575;
+  margin-top: 20px;
+  background: #fff;
+  border: 1px solid red;
+  border-radius: 2px;
+}
+/* 通用部分结束 */
+
+.brand{
+  margin-left: 179px;
+}
+.brand dt,.product dt, .prenew h3{
+  display: inline-block;
+  font-size: 25px;
+  height: 39px;
+  margin-bottom: 31px;
+  border-bottom: 1px solid #d9d9d9;
+}
+.brand dd , .product dd, .prenew p{
+  font-size: 13px;
+  height: 33px;
+  color: #a9a9a9;
+}
+.prenew{
+  margin-right: 100px;
+}
+.prenew p{
+  margin-top: 19px;
+}
+/* 品牌部分结束 */
+
+.footer{
+  height: 345px;
+  margin-top: 79px;
+  background: #333232;
+}
+.ps dt,.hotq dt,.fastin dt,.aboutus dt{
+font-size: 16px;
+margin-top: 40px;
+margin-bottom: 29px;
+color: #fff;
+}
+.ps dd,.hotq dd,.fastin dd,.aboutus dd{
+  font-size: 14px;
+  height: 28px;
+}
+.ps{
+  margin-left: 180px;
+}
+.hotq{
+  margin-left: 113px;
+}
+.fastin{
+  margin-left: 119px;
+}
+.aboutus{
+  margin-left: 116px;
+}
+.app{
+  width: 230px;
+  /* height: 181px; */
+  margin-top: 39px;
+  margin-left: 117px;
+}
+.app ul li{
+  font-size: 14px;
+  height: 34px;
+  line-height: 25px;
+  border-bottom: 1px solid #403f47;
+}
+.app .hotl{
+  margin-top: 25px;
+}
+.app .hotl p{
+  font-size: 14px;
+  height: 28px;
+}
+.triangel{
+  position: absolute;
+  left: 84px;
+  top: 5px;
+  width: 0;
+  height: 0;
+  border-left: 11px solid #fff;
+  border-right: 0;
+  border-top: 7px solid transparent;
+  border-bottom: 7px solid transparent;
+}
